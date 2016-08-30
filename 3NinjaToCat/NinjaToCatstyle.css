@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#container{
+	width: 181px;
+	height: auto;
+}
+	#container ol li{
+		display: inline-block;
+	}
+	#container li{
+		list-style-type: none;
+	}

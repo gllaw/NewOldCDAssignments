@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#container{
+	width: 650px;
+	background-color: grey;
+	overflow: hidden;
+}
+form{
+	margin: 20px;
+	width: 250px;
+	background-color: green;
+}
+label{
+	display: inline-block;
+}
+#adduser{
+	display: inline-block;
+}
+#cardspace{
+	display: inline-block;
+	width: 250px;
+}
+.cardfront{
+	display: none;
+	width: 200px;
+	border: 2px solid black;
+}
+#frstname{
+	display: inline;
+}
+#lstname{
+	display: inline;
+}
+.cardback{
+	display: none;
+	width: 200px;
+	border: 2px solid blue;
+}
